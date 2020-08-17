@@ -1,0 +1,434 @@
+{
+  "FilesToCompress": [
+    {
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\XpoXHzF--5m8QntfzGzLelINB6EYiktUGSeM3ypMyX0=.hash",
+      "Source": "G:\\VS2019\\LoansApp\\BlazorCientApp\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\BlazorCientApp.dll",
+      "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/BlazorCientApp.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\WkuXkEV--B1J2kYqjuSPxgHubOHALmA548PhKTed2JE=.hash",
+      "Source": "G:\\VS2019\\LoansApp\\BlazorCientApp\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\System.Net.Http.Json.dll",
+      "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/System.Net.Http.Json.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\ZxXy75PYbzJxNfAc-SAP1nUYm4gt1jSaOpFnBb9m85M=.hash",
+      "Source": "G:\\VS2019\\LoansApp\\BlazorCientApp\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\System.Buffers.dll",
+      "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/System.Buffers.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\BaZPMj95_YNe3G4ckTGD6szZFwZeA2MOHn91zTGKDeU=.hash",
+      "Source": "G:\\VS2019\\LoansApp\\BlazorCientApp\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\mscorlib.dll",
+      "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/mscorlib.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\TkH6yxFQlTfY8NfznePrCdYJiEVpM9Dqy4Uu4H9qk10=.hash",
+      "Source": "G:\\VS2019\\LoansApp\\BlazorCientApp\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\System.Threading.Tasks.Extensions.dll",
+      "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/System.Threading.Tasks.Extensions.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\-cPXlNTX8GKF-lIn-2DIjtxTe0Wpy4ZDcyAj67b6JYk=.hash",
+      "Source": "G:\\VS2019\\LoansApp\\BlazorCientApp\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\System.Memory.dll",
+      "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/System.Memory.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\HQeN_ZfHAERO_uW0fP0J9J3WV1hQ3vUIOWbqGSYBPp8=.hash",
+      "Source": "G:\\VS2019\\LoansApp\\BlazorCientApp\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\System.Text.Json.dll",
+      "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/System.Text.Json.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\kL-omZDwqByAi_lPdMeDmr3XjHcn4RVb_LmZ4mut1Yc=.hash",
+      "Source": "G:\\VS2019\\LoansApp\\BlazorCientApp\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\System.Runtime.CompilerServices.Unsafe.dll",
+      "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/System.Runtime.CompilerServices.Unsafe.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\OBWh2or_2mU6elwqPfmL72FBZVKl2WzTJ4L-IrKeXM4=.hash",
+      "Source": "G:\\VS2019\\LoansApp\\BlazorCientApp\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\Microsoft.Bcl.AsyncInterfaces.dll",
+      "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.Bcl.AsyncInterfaces.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\-zcPVM75OAY_joGVM8yIC1gO1SFYWP1CFERgQ8PJkfA=.hash",
+      "Source": "G:\\VS2019\\LoansApp\\BlazorCientApp\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\netstandard.dll",
+      "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/netstandard.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\IPbQMdJxZXdk8HTlaPyXdQ6Zb82iZLphnM74yO4EURQ=.hash",
+      "Source": "G:\\VS2019\\LoansApp\\BlazorCientApp\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\System.Xml.Linq.dll",
+      "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/System.Xml.Linq.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\Zw2-5aDWjgMedporhjigwhi-UCLcfl0tfa0LXUyD9HE=.hash",
+      "Source": "G:\\VS2019\\LoansApp\\BlazorCientApp\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\System.Core.dll",
+      "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/System.Core.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\r6QdEXq0KfB8oZDzhnV4xskSbzJA0yBVi6XFpa3TGHM=.hash",
+      "Source": "G:\\VS2019\\LoansApp\\BlazorCientApp\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\System.dll",
+      "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/System.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\ob5gN-szfb1CwWnyQWvWvuid3u4df593KvZeoJQEaKc=.hash",
+      "Source": "G:\\VS2019\\LoansApp\\BlazorCientApp\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\WebAssembly.Net.WebSockets.dll",
+      "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/WebAssembly.Net.WebSockets.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\6XMT1eT3svGdg6hFzAHJscYdTQjakoYccYTdHmKSr7Y=.hash",
+      "Source": "G:\\VS2019\\LoansApp\\BlazorCientApp\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\WebAssembly.Bindings.dll",
+      "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/WebAssembly.Bindings.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\8g0neeYVmPrxWgbMI0ZTVO6257qMisUTPZ78egAnIMw=.hash",
+      "Source": "G:\\VS2019\\LoansApp\\BlazorCientApp\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\System.Numerics.dll",
+      "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/System.Numerics.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\RMOYBniHZkD8OZrBV3ONIMTZqsBhSAcBFm4pVuY9dv4=.hash",
+      "Source": "G:\\VS2019\\LoansApp\\BlazorCientApp\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\System.Xml.dll",
+      "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/System.Xml.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\fMngt4py0YmfHqV6eONyCI6R5m_YOE7KZ3U4MzCrskE=.hash",
+      "Source": "G:\\VS2019\\LoansApp\\BlazorCientApp\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\Mono.Security.dll",
+      "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Mono.Security.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\VAHA4LWcsdHUBgFG1-xwhc4IyJ0ZH9UyK9_qSPzDa6Y=.hash",
+      "Source": "G:\\VS2019\\LoansApp\\BlazorCientApp\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\System.Transactions.dll",
+      "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/System.Transactions.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\C09aqx1vDLK7zQ9XnZcUqAgTDRwybxhRg-FR8HSk1v8=.hash",
+      "Source": "G:\\VS2019\\LoansApp\\BlazorCientApp\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\System.Runtime.Serialization.dll",
+      "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/System.Runtime.Serialization.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\6mtLxbGMMGcIfch8cp0W9gmBoI493AxBRUPGEzOn3nU=.hash",
+      "Source": "G:\\VS2019\\LoansApp\\BlazorCientApp\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\System.ServiceModel.Internals.dll",
+      "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/System.ServiceModel.Internals.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\moW4EYN6ExD6T0vSBMMggn62cZaTd8dSr9b-yj-9dPM=.hash",
+      "Source": "G:\\VS2019\\LoansApp\\BlazorCientApp\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\System.Net.Http.dll",
+      "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/System.Net.Http.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\LUtkiqNd5ABTiuiYaqzaJxVjPq_Z4FqezuIWk-faqSA=.hash",
+      "Source": "G:\\VS2019\\LoansApp\\BlazorCientApp\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\System.Net.Http.WebAssemblyHttpHandler.dll",
+      "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/System.Net.Http.WebAssemblyHttpHandler.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\R8CUbbWAKar388eFQJhUgiTgLEv2Mih9wr9iO0P7ImU=.hash",
+      "Source": "G:\\VS2019\\LoansApp\\BlazorCientApp\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\System.ComponentModel.Composition.dll",
+      "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/System.ComponentModel.Composition.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\ptCMHBy9q8MMLU0ukLMuvvhQk-yYljw37MTKtfsvuFQ=.hash",
+      "Source": "G:\\VS2019\\LoansApp\\BlazorCientApp\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\System.IO.Compression.FileSystem.dll",
+      "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/System.IO.Compression.FileSystem.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\hLbkXBzxUk9DSXYTLGRowe_80rxmpXsqEZbPIL4_5zs=.hash",
+      "Source": "G:\\VS2019\\LoansApp\\BlazorCientApp\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\System.IO.Compression.dll",
+      "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/System.IO.Compression.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\vcCLMX4xAsUqKuQjjIkzu1O9pHGO-tdvysgSmEjL6oo=.hash",
+      "Source": "G:\\VS2019\\LoansApp\\BlazorCientApp\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\System.Drawing.Common.dll",
+      "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/System.Drawing.Common.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\eejp4oI3sQBq-tI6GsJNaPu3Dkdot5Vbn8_R3w2vYLE=.hash",
+      "Source": "G:\\VS2019\\LoansApp\\BlazorCientApp\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\System.Data.DataSetExtensions.dll",
+      "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/System.Data.DataSetExtensions.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\dxfTuT6ffPMmvuUUTfv7_bpLtOZZZHQdz77hjhy9qHw=.hash",
+      "Source": "G:\\VS2019\\LoansApp\\BlazorCientApp\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\System.Data.dll",
+      "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/System.Data.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\qAKfFnquY_7UC-MzLi04rjqEhLzTryCoLg-S6MxI19I=.hash",
+      "Source": "G:\\VS2019\\LoansApp\\BlazorCientApp\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\System.Numerics.Vectors.dll",
+      "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/System.Numerics.Vectors.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\Tqh1Da_iTRQJEZUGAsMNFuZ4hf1PMf13WApRZod_uw4=.hash",
+      "Source": "G:\\VS2019\\LoansApp\\BlazorCientApp\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\System.Text.Encodings.Web.dll",
+      "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/System.Text.Encodings.Web.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\fXppSpNZWwDJhYYWU_uQSwXoC5Krwc_3mqRwKJz0FHY=.hash",
+      "Source": "G:\\VS2019\\LoansApp\\BlazorCientApp\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\Microsoft.Extensions.Http.dll",
+      "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.Extensions.Http.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\_kkwUt5LUrFrnFcHiSvLP3Ps50UAimB6C5utgehqOo4=.hash",
+      "Source": "G:\\VS2019\\LoansApp\\BlazorCientApp\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\Microsoft.Extensions.Logging.dll",
+      "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.Extensions.Logging.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\oK1Bjv95fH_hSbogUkJE_xDAI203kJG6lL6Sm-NuPWg=.hash",
+      "Source": "G:\\VS2019\\LoansApp\\BlazorCientApp\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\Microsoft.Extensions.DependencyInjection.dll",
+      "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.Extensions.DependencyInjection.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\Bs1Wrmh4ex9dTEIT0yCRF52N-wOmsBDt457BHr0-ssM=.hash",
+      "Source": "G:\\VS2019\\LoansApp\\BlazorCientApp\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\Microsoft.Extensions.DependencyInjection.Abstractions.dll",
+      "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.Extensions.DependencyInjection.Abstractions.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\6gJMwefpsWLHWsEipZp143xn8k2Ea27upnXqjUT6iNI=.hash",
+      "Source": "G:\\VS2019\\LoansApp\\BlazorCientApp\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\Microsoft.Extensions.Logging.Abstractions.dll",
+      "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.Extensions.Logging.Abstractions.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\rvTW0d54uLW0iDMAX30lpmr9f8uHoS3YYkEU5zNGhyc=.hash",
+      "Source": "G:\\VS2019\\LoansApp\\BlazorCientApp\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\Microsoft.Extensions.Options.dll",
+      "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.Extensions.Options.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\y-FyJQOcW2TOcTp7Iuv8brGBzL5ZP0oJdG7ysK_gtKc=.hash",
+      "Source": "G:\\VS2019\\LoansApp\\BlazorCientApp\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\Microsoft.Extensions.Primitives.dll",
+      "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.Extensions.Primitives.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\XhX4Aj4KVDykRBX2VTSbG7rRjJiakWEKQpK25O8KDSE=.hash",
+      "Source": "G:\\VS2019\\LoansApp\\BlazorCientApp\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\Refit.HttpClientFactory.dll",
+      "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Refit.HttpClientFactory.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\QSPGUypo8iuKvkRwDzjQr2PIk1cSLEFEhdCkGwv1ZQw=.hash",
+      "Source": "G:\\VS2019\\LoansApp\\BlazorCientApp\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\Refit.dll",
+      "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Refit.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\mRd6TL4DYldo1ko9czkjEDcoiPdMPrJxz3dekwV6OOY=.hash",
+      "Source": "G:\\VS2019\\LoansApp\\BlazorCientApp\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\Newtonsoft.Json.dll",
+      "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Newtonsoft.Json.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\r98DOyA4q-xVQMlcQwlPvAD4ERFmDmx2t5VCeUELVHU=.hash",
+      "Source": "G:\\VS2019\\LoansApp\\BlazorCientApp\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\Splat.Microsoft.Extensions.DependencyInjection.dll",
+      "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Splat.Microsoft.Extensions.DependencyInjection.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\Xc66S6DV0ns4zH-EBHlAz8sEtO2Qa-PyPTnE68AwrO4=.hash",
+      "Source": "G:\\VS2019\\LoansApp\\BlazorCientApp\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\Splat.dll",
+      "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Splat.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\n8Ge_gK1XYI0MBIiOt0tCAYuU0GbBaNNeJTsJFAMLMU=.hash",
+      "Source": "G:\\VS2019\\LoansApp\\BlazorCientApp\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\Accelist.FluentValidation.Blazor.dll",
+      "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Accelist.FluentValidation.Blazor.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\eW9JLse_RgMl1jrmBjKOPA0e42UGS6rFuTXB-OjNsu0=.hash",
+      "Source": "G:\\VS2019\\LoansApp\\BlazorCientApp\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\FluentValidation.dll",
+      "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/FluentValidation.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\m7Q_cF5-ji3OMfdGlCuE8pQ-iM_kxNHLq-IEWVvIaOg=.hash",
+      "Source": "G:\\VS2019\\LoansApp\\BlazorCientApp\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\Microsoft.AspNetCore.Components.Forms.dll",
+      "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.AspNetCore.Components.Forms.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\tmnkCmP9OzLUkpQ3LP7PRosi7gt5pyfEZCM6aqAokFI=.hash",
+      "Source": "G:\\VS2019\\LoansApp\\BlazorCientApp\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\System.ComponentModel.Annotations.dll",
+      "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/System.ComponentModel.Annotations.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\LIfCYwg_PHltTK4z3EnbSkA7m2cn8JS4jHVthdKrDF8=.hash",
+      "Source": "G:\\VS2019\\LoansApp\\BlazorCientApp\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\System.ComponentModel.DataAnnotations.dll",
+      "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/System.ComponentModel.DataAnnotations.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\PEg9ghiKSWBTX0jq8pFDvv2Yvw92Y8W0ELtWrSE4fhA=.hash",
+      "Source": "G:\\VS2019\\LoansApp\\BlazorCientApp\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\Microsoft.AspNetCore.Components.dll",
+      "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.AspNetCore.Components.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\fahDKso6FUnW6-rzdeV0YrBhLrJ2DfWP3wQu2395y3Y=.hash",
+      "Source": "G:\\VS2019\\LoansApp\\BlazorCientApp\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\Microsoft.AspNetCore.SignalR.Client.dll",
+      "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.AspNetCore.SignalR.Client.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\Xv-CWgbT7j5ouyppbrSt6McxhJ831vz8vVt12vk9jmM=.hash",
+      "Source": "G:\\VS2019\\LoansApp\\BlazorCientApp\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\Microsoft.AspNetCore.SignalR.Common.dll",
+      "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.AspNetCore.SignalR.Common.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\4u6_PksXsibgYVz0uo7k88G_Joq8qD1vJ6zg04bbI-0=.hash",
+      "Source": "G:\\VS2019\\LoansApp\\BlazorCientApp\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\Microsoft.AspNetCore.Connections.Abstractions.dll",
+      "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.AspNetCore.Connections.Abstractions.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\PhH7DeDP_SCSyTu4B1Yw_tHQAG4oqYgFaMsHOUoNXEU=.hash",
+      "Source": "G:\\VS2019\\LoansApp\\BlazorCientApp\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\System.IO.Pipelines.dll",
+      "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/System.IO.Pipelines.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\Zn5BJ87SrRiKwaRm-SWI0LeLWLPdeC0kTvOgKB5YTj0=.hash",
+      "Source": "G:\\VS2019\\LoansApp\\BlazorCientApp\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\Microsoft.AspNetCore.Http.Features.dll",
+      "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.AspNetCore.Http.Features.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\7AdfQ3XqXkT7mIRpWlB-MwnIVOOgqSCyJhoz4brXvpQ=.hash",
+      "Source": "G:\\VS2019\\LoansApp\\BlazorCientApp\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\Microsoft.AspNetCore.Http.Connections.Client.dll",
+      "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.AspNetCore.Http.Connections.Client.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\u6Nj3mBAY9SSb0vaOI2Rc5_E4N5eWTuU9lFOJG9ijFg=.hash",
+      "Source": "G:\\VS2019\\LoansApp\\BlazorCientApp\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\Microsoft.AspNetCore.Http.Connections.Common.dll",
+      "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.AspNetCore.Http.Connections.Common.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\rudWlnCTHDaWiLEtqCceIOylcmGlbxktkU1VORrc6_w=.hash",
+      "Source": "G:\\VS2019\\LoansApp\\BlazorCientApp\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\Microsoft.AspNetCore.SignalR.Client.Core.dll",
+      "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.AspNetCore.SignalR.Client.Core.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\osjK5QqXSIH0Ai7dOzDClQCQVgGCIT0-6jQ69GoJ2YU=.hash",
+      "Source": "G:\\VS2019\\LoansApp\\BlazorCientApp\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\Microsoft.AspNetCore.SignalR.Protocols.Json.dll",
+      "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.AspNetCore.SignalR.Protocols.Json.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\zT4jWv9mA9ljJBiDW5pkQqXrJMd5IWsU7LQ9Nnjdios=.hash",
+      "Source": "G:\\VS2019\\LoansApp\\BlazorCientApp\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\System.Threading.Channels.dll",
+      "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/System.Threading.Channels.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\bSgsT2x5xMvs8mara5wU_EJwcyHa9GVMU85HwhWcdWM=.hash",
+      "Source": "G:\\VS2019\\LoansApp\\BlazorCientApp\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\Microsoft.AspNetCore.Components.Web.dll",
+      "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.AspNetCore.Components.Web.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\8dP3Oj8wPbaXLe5QkrsbijLf9Z8jcmIDerxty3HdxOU=.hash",
+      "Source": "G:\\VS2019\\LoansApp\\BlazorCientApp\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\ReactiveUI.Blazor.dll",
+      "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/ReactiveUI.Blazor.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\Jx6tVHEHZZ6Z8Nf4_hn6rorcZIi69RTpMlCOHdm6rv8=.hash",
+      "Source": "G:\\VS2019\\LoansApp\\BlazorCientApp\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\System.Reactive.Wasm.dll",
+      "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/System.Reactive.Wasm.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\GfARLNH1Fy7iaI6W3dRK2jmkuxyyMVoVS2PpBk9uPcA=.hash",
+      "Source": "G:\\VS2019\\LoansApp\\BlazorCientApp\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\System.Reactive.dll",
+      "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/System.Reactive.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\3qQLIayyoZ2NAkgoYQTPaMFAfCkuY30vLlPSpaAvxd8=.hash",
+      "Source": "G:\\VS2019\\LoansApp\\BlazorCientApp\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\System.Runtime.InteropServices.WindowsRuntime.dll",
+      "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/System.Runtime.InteropServices.WindowsRuntime.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\_sArhzPF6Ihrw8wu6mbewSNoBDKEiAXsyKwtP3Udq7M=.hash",
+      "Source": "G:\\VS2019\\LoansApp\\BlazorCientApp\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\ReactiveUI.dll",
+      "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/ReactiveUI.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\_CIUCX_1tMq-sepYpR7SuNkr8tnSlIwWPAqTkub3SJU=.hash",
+      "Source": "G:\\VS2019\\LoansApp\\BlazorCientApp\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\DynamicData.dll",
+      "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/DynamicData.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\FJ_rEgcx6ljTxwbRXZSUGfrDKpVvOxHCSfNxbnXNn3M=.hash",
+      "Source": "G:\\VS2019\\LoansApp\\BlazorCientApp\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\Microsoft.AspNetCore.Components.WebAssembly.dll",
+      "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.AspNetCore.Components.WebAssembly.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\n0Ag7rF7ZQamklPSZkakIXkRoa6JwlmPSS0cRaAhJQM=.hash",
+      "Source": "G:\\VS2019\\LoansApp\\BlazorCientApp\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\Microsoft.Extensions.Configuration.dll",
+      "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.Extensions.Configuration.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\2jNkt--JGfoqWNB8whRdJotnsanWbH3FfxZWz0gyLTs=.hash",
+      "Source": "G:\\VS2019\\LoansApp\\BlazorCientApp\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\Microsoft.Extensions.Configuration.Abstractions.dll",
+      "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.Extensions.Configuration.Abstractions.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\mQqyOIjuVduaLQ7ZyvDrChDLp8rTeQknIIWDzqsO4eY=.hash",
+      "Source": "G:\\VS2019\\LoansApp\\BlazorCientApp\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\Microsoft.Extensions.Configuration.Json.dll",
+      "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.Extensions.Configuration.Json.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\3trD3kyUrc0a2IrNSfLT2rSZ35MMdD2qtqG_vk_U8QA=.hash",
+      "Source": "G:\\VS2019\\LoansApp\\BlazorCientApp\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\Microsoft.Extensions.Configuration.FileExtensions.dll",
+      "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.Extensions.Configuration.FileExtensions.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\tY1dlliVr_yGzBF7d0z-iaulZfBJNaSrCKDD0RP2cc8=.hash",
+      "Source": "G:\\VS2019\\LoansApp\\BlazorCientApp\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\Microsoft.Extensions.FileProviders.Physical.dll",
+      "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.Extensions.FileProviders.Physical.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\r8LuqDQgcB-c3E48xHqsAY1eRZB1ZtuqZF6nlufn7kg=.hash",
+      "Source": "G:\\VS2019\\LoansApp\\BlazorCientApp\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\Microsoft.Extensions.FileSystemGlobbing.dll",
+      "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.Extensions.FileSystemGlobbing.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\DrtNiKIMjfSOdamH5Bs5zHmjFADgNiwrY5tRgTm6XuI=.hash",
+      "Source": "G:\\VS2019\\LoansApp\\BlazorCientApp\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\Microsoft.Extensions.FileProviders.Abstractions.dll",
+      "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.Extensions.FileProviders.Abstractions.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\LqwA2Rpm96Ualk0IhLZar87kfRCyKHzHTeTt2jYhm7M=.hash",
+      "Source": "G:\\VS2019\\LoansApp\\BlazorCientApp\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\Microsoft.JSInterop.dll",
+      "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.JSInterop.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\czNf3btAeBW-vvID5LAfgcsNZ_GM3ssVuPaMflcg0rs=.hash",
+      "Source": "G:\\VS2019\\LoansApp\\BlazorCientApp\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\Microsoft.JSInterop.WebAssembly.dll",
+      "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.JSInterop.WebAssembly.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\h3MqLaHZI0FGVagwu4A3q3lJR2uAOGyeGi7ijG1VT9g=.hash",
+      "Source": "G:\\VS2019\\LoansApp\\BlazorCientApp\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\SharedModels.dll",
+      "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/SharedModels.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\CHfSGg6-mi2O_w3HZ6lw1UzBAz6AVpbUcBTH_2xmtAc=.hash",
+      "Source": "G:\\VS2019\\LoansApp\\BlazorCientApp\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\Microsoft.AspNetCore.JsonPatch.dll",
+      "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.AspNetCore.JsonPatch.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\ubyINHXDmWOAugBDEb8CCz_uV68eordXiYDxpUeRBvg=.hash",
+      "Source": "G:\\VS2019\\LoansApp\\BlazorCientApp\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\Microsoft.CSharp.dll",
+      "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.CSharp.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\RHvLiPyqrn9xnOs3d5_hpCZ7HMVxskoiewryxzAkIN4=.hash",
+      "Source": "G:\\VS2019\\LoansApp\\BlazorCientApp\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\BlazorCientApp.pdb",
+      "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/BlazorCientApp.pdb.gz"
+    },
+    {
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\5J72qk0IUiDAL1PUT5TKU28mhTaY0rN2Co4Yb_kgRho=.hash",
+      "Source": "G:\\VS2019\\LoansApp\\BlazorCientApp\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\SharedModels.pdb",
+      "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/SharedModels.pdb.gz"
+    },
+    {
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\mPoqx7XczFHBWk3gRNn0hc9ekG1OvkKY4XiKRY5Mj5U=.hash",
+      "Source": "C:\\Users\\akour\\.nuget\\packages\\microsoft.aspnetcore.components.webassembly.runtime\\3.2.0\\tools\\dotnetwasm\\wasm\\dotnet.3.2.0.js",
+      "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/wasm\/dotnet.3.2.0.js.gz"
+    },
+    {
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\3S0qzYaBEKOBXarzVLNzNAFXlwJr6nI3lFlYUpQTPH8=.hash",
+      "Source": "C:\\Users\\akour\\.nuget\\packages\\microsoft.aspnetcore.components.webassembly.runtime\\3.2.0\\tools\\dotnetwasm\\wasm\\dotnet.timezones.dat",
+      "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/wasm\/dotnet.timezones.dat.gz"
+    },
+    {
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\UC-3Rm1NkdNdlIrzYARo_dO-HDlS5mhPxo0IQv7kma8=.hash",
+      "Source": "C:\\Users\\akour\\.nuget\\packages\\microsoft.aspnetcore.components.webassembly.runtime\\3.2.0\\tools\\dotnetwasm\\wasm\\dotnet.wasm",
+      "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/wasm\/dotnet.wasm.gz"
+    },
+    {
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\SPHS1EAPAcMFN4TEIUYl3FWtoCQTsNJch0XVGgok1eE=.hash",
+      "Source": "C:\\Users\\akour\\.nuget\\packages\\microsoft.aspnetcore.components.webassembly.build\\3.2.1\\tools\\blazor\\blazor.webassembly.js",
+      "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/blazor.webassembly.js.gz"
+    },
+    {
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\bSM0gCBlExf8_nR1aU_aq_LW0_fZ67LoU1Ep4ghB8NI=.hash",
+      "Source": "G:\\VS2019\\LoansApp\\BlazorCientApp\\obj\\Debug\\netstandard2.1\\blazor\\blazor.boot.json",
+      "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/blazor.boot.json.gz"
+    }
+  ]
+}
