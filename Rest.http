@@ -1,0 +1,16 @@
+###
+
+GET http://localhost:7071/api/books HTTP/1.1
+
+###
+
+POST http://localhost:7071/api/books HTTP/1.1
+content-type: application/json
+
+{
+    "id": "FromRest",
+    "title": "Fufik",
+    "price": 9
+}
+
+###

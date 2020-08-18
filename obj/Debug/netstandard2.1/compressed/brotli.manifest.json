@@ -1,7 +1,7 @@
 {
   "FilesToCompress": [
     {
-      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\XpoXHzF--5m8QntfzGzLelINB6EYiktUGSeM3ypMyX0=.hash",
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\CCqB3uGNLPfiS_fUk61ngVh12xhefJq0ZLTljD760Us=.hash",
       "Source": "G:\\VS2019\\LoansApp\\BlazorCientApp\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\BlazorCientApp.dll",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/BlazorCientApp.dll.br"
     },
@@ -381,7 +381,7 @@
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.JSInterop.WebAssembly.dll.br"
     },
     {
-      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\h3MqLaHZI0FGVagwu4A3q3lJR2uAOGyeGi7ijG1VT9g=.hash",
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\bbzxSnQTgCvk24nXVn6uNo6hmE5YtN1U9fknUSNfotw=.hash",
       "Source": "G:\\VS2019\\LoansApp\\BlazorCientApp\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\SharedModels.dll",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/SharedModels.dll.br"
     },
@@ -396,12 +396,12 @@
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.CSharp.dll.br"
     },
     {
-      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\RHvLiPyqrn9xnOs3d5_hpCZ7HMVxskoiewryxzAkIN4=.hash",
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\yTOebNxbo_LUN-f-lwnwWIdcMz8B_hdKHF1wc9832T8=.hash",
       "Source": "G:\\VS2019\\LoansApp\\BlazorCientApp\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\BlazorCientApp.pdb",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/BlazorCientApp.pdb.br"
     },
     {
-      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\5J72qk0IUiDAL1PUT5TKU28mhTaY0rN2Co4Yb_kgRho=.hash",
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\d-mDvOw59LQq2IZdr5PMwM9-yHD1Gt5vUEgLvAOEg20=.hash",
       "Source": "G:\\VS2019\\LoansApp\\BlazorCientApp\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\SharedModels.pdb",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/SharedModels.pdb.br"
     },
@@ -426,7 +426,7 @@
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/blazor.webassembly.js.br"
     },
     {
-      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\bSM0gCBlExf8_nR1aU_aq_LW0_fZ67LoU1Ep4ghB8NI=.hash",
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\KBJbSfTFJNZYidHvDftZ5YN8KGKONTIZwoMS0XiNg_M=.hash",
       "Source": "G:\\VS2019\\LoansApp\\BlazorCientApp\\obj\\Debug\\netstandard2.1\\blazor\\blazor.boot.json",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/blazor.boot.json.br"
     }
