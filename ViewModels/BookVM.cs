@@ -25,6 +25,7 @@ namespace BlazorClientApp.ViewModels
         }
         public BookViewModelValidator Validator { get; }
         private readonly IRefitBookService _refitService;
+        //send changes
         public JsonPatchDocument<Book> Patch;
 
         readonly ObservableAsPropertyHelper<bool> _isExecuting;
